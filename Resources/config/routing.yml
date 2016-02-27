@@ -1,0 +1,3 @@
+weird_homepage:
+    path:     /
+    defaults: { _controller: WeirdBundle:Default:index }

@@ -1,0 +1,19 @@
+{
+    "name": "almacbe/weird-bundle",
+    "description" : "A weird bundle",
+    "type" : "symfony-bundle",
+    "keywords" : [
+        "bundle",
+	"weird"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php": ">=5.3.9"
+    },
+    "autoload": {
+        "psr-4": { "WeirdBundle\\": "" }
+    }
+}
+

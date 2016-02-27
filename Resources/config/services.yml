@@ -1,0 +1,4 @@
+services:
+#    weird.example:
+#        class: Acme\WeirdBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
